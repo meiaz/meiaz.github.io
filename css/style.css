@@ -1,0 +1,30 @@
+body {
+  background: ;
+
+}
+
+h2 {
+  font-family: 'Karla' ;
+}
+
+p {
+  font-family: 'Inconsolata';
+}
+
+.navbar {
+  background: yellow;
+}
+
+.mybg {
+  background: url('../img/test.jpg') no-repeat;
+  height: 400px;
+}
+
+.padding {
+  padding: 16em;
+}
+
+
+.navcuatui {
+
+}
