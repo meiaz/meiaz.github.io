@@ -18,6 +18,9 @@ background-size: cover;
 
 .text-primary{color:#ff3e62}
 
+u {text-decoration: underline;}
+u:hover{text-shadow:none;background:#fff}
+
 
 p{font-size:12px;line-height:1.75}
 
