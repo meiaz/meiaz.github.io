@@ -2,10 +2,14 @@ body{
   overflow-x:hidden;
   font-family:"Crimson Text","Source Code Pro",sans-serif;
   background-color:#ffe6eb;
-  background-image: url(../img/b.png);
+  background-image: url(../img/bg3.png);
   background-position: center;
   background-attachment: fixed;
-  background-repeat:repeat;
+  background-repeat:no-repeat;
+  -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 
 .text-muted{font-family: "Source Code Pro";color:#0600ff}
@@ -22,6 +26,8 @@ a,a:hover,a:focus,a:active,a.active{outline:0}
 a{color:#0600ff}a:hover,a:focus,a:active,a.active{color:#0500ce}
 
 h1,h2,h3,h4,h5,h6{font-family: "Crimson Text","Source Code Pro","Helvetica Neue",Helvetica,Arial,sans-serif;color:#ff3e62;font-weight:400}
+
+.link{text-decoration: underline;}
 
 .img-centered{margin:0 auto}.bg-blue{background-color: #0600ff; }
 
