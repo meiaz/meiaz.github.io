@@ -12,6 +12,8 @@ body{
 background-size: cover;
 }
 
+@media (max-width: 600px){body{background-image: none;}}
+
 .text-muted{font-family: "Source Code Pro";color:#0600ff}
 
 .text-primary{color:#ff3e62}
